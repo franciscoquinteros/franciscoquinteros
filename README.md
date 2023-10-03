@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [franciscoquinteros.com](franciscoquinteros.com)
 
-- 💬 Ask me about **Java and Python**
+- 💬 Ask me about **Java and React**
 
 - 📫 How to reach me **franciscoquinterosok@gmail.com**
 
