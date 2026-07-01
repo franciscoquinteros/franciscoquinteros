@@ -25,10 +25,18 @@
 </p>
 
 <h3 align="left">📊 My GitHub Stats:</h3>
+
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=franciscoquinteros&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Francisco's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoquinteros&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=franciscoquinteros&theme=tokyonight" alt="Profile details" />
 </p>
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=franciscoquinteros&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=franciscoquinteros&theme=tokyonight" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=franciscoquinteros&theme=tokyonight" alt="Most commit language" />
+</p>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=franciscoquinteros&theme=tokyonight" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=franciscoquinteros&theme=tokyonight&utcOffset=-3" alt="Productive time" />
+</p>
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=franciscoquinteros&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
